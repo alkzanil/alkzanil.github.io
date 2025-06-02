@@ -1,13 +1,16 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Master of Science, Artificial Intelligence 
+  uni: Northumbria University
+  year: 2023 &mdash; 2025
   awards:
-    - award: Summa Cumme Laude graduate
+    - award: Machine Learning · Data Analysis · Artificial Intelligence (AI)
   summary: If you had any meaningful roles at college, feel free to write about them here
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Bachelor of Science Research, Cloud Computing & Big Data
+  uni: REVA University
+  year: 2016 &mdash; 2020
+  awards:
+    - award: SQL · Python · JavaScript · Amazon Web Services (AWS) · DevOps  · PHP · AWS Lambda · Cloud Computing
+  summary: If you had any meaningful roles at college, feel free to write about them here
+
+
