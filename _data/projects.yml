@@ -5,8 +5,19 @@
 - project: Mental Health Feedback System Using Multi-Modal Emotion Recognition
   role: Master’s Dissertation Project | Python, TensorFlow, OpenCV, Librosa, XGBoost, MFCC, Flask, GitHub
   # url: "#"
+  description: Built a multi-modal AI system to analyze facial expressions and speech from 30-second user videos to detect emotional states for early mental health assessment <ul class="experience-master-list"><li>Extracted CNN-based facial features using OpenCV and DeepFace, and MFCC speech features using Librosa, aligning them for emotion classification</li><li>Developed individual models and implemented feature-level fusion using XGBoost to achieve 74% accuracy across 7 emotion categories</li><li>Created a real-time feedback system using Flask, delivering tailored responses based on detected emotional patterns</li><li>Prioritized ethical AI, incorporating XAI methods and considering data privacy throughout the pipeline</li></ul>
+
+# jazznotes.io
+- project: Mental Health Feedback System Using Multi-Modal Emotion Recognition
+  role: Master’s Dissertation Project | Python, TensorFlow, OpenCV, Librosa, XGBoost, MFCC, Flask, GitHub
+  # url: "#"
   description: Built a multi-modal AI system to analyze facial expressions and speech from 30-second user videos to detect emotional states for early mental health assessment <ul class="experience-master-list"><li>Extracted CNN-based facial features using OpenCV and DeepFace, and MFCC speech features using Librosa, aligning them for emotion classification</li><li>Developed individual models and implemented feature-level fusion using XGBoost to achieve 74% accuracy across 7 emotion categories</li><li>Created a real-time feedback system using Flask, delivering tailored responses based on detected emotional patterns</li><li>Prioritized ethical AI, incorporating XAI methods and considering data privacy throughout the pipeline</li>
 
+# Springfield Community Outreach Group
+- project: Confidential Project – Loan Management Web Application
+  role: Professional Project | Mahasri Consultancy Services | PHP, MySQL, JavaScript, Bootstrap, Python (EDA)
+  # url: "#"
+  description: Collaborated on the development of a secure, full-stack web application designed to connect financial institutions with client leads seeking loan assistance <ul class="experience-main-list><li>Built and maintained modules for data handling, user interactions, and dynamic dashboards using PHP, JavaScript, and MySQL</li><li>Applied EDA techniques in Python to analyze anonymized user trends and optimize system flow</li><li>Ensured cross-browser responsiveness, form validation, and user authentication while adhering to internal confidentiality policies</li><li>Project involved critical backend logic, user-centric design, and was deployed for private/internal use under NDA terms</li></ul>
 # Springfield Community Outreach Group
 - project: BigMart Sales Prediction System
   role: Bachelor's Final Year Project | Python, Pandas, NumPy, scikit-learn, Matplotlib, GitHub
