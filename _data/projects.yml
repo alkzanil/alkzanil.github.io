@@ -12,4 +12,4 @@
 - project: BigMart Sales Prediction System
   role: Bachelor's Final Year Project | Python, Pandas, NumPy, scikit-learn, Matplotlib, GitHub
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Developed a supervised machine learning model to predict sales of retail products across BigMart outlets using historical data <ul class="experience-list"><li>Performed comprehensive data cleaning, feature engineering, and EDA to uncover patterns affecting sales such as outlet type, product visibility, and location type</li> <li>Built and compared regression models including Linear Regression, Ridge, and Random Forest Regressor, achieving an R² score of 86% with Random Forest</li><li>Visualized key insights with Matplotlib and Seaborn to enhance interpretability for stakeholders</li></ul>
