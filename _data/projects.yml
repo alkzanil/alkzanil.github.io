@@ -2,16 +2,16 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: Mental Health Feedback System Using Multi-Modal Emotion Recognition
-  role: Master’s Dissertation Project | Python, TensorFlow, OpenCV, Librosa, XGBoost, MFCC, Flask, GitHub
+- project: MoodMate – AI-Powered Journal Companion
+  role: Personal Project | Python, Hugging Face Transformers, Streamlit, NLP, Sentiment Analysis
   # url: "#"
-  description: Built a multi-modal AI system to analyze facial expressions and speech from 30-second user videos to detect emotional states for early mental health assessment <ul class="experience-master-list"><li>Extracted CNN-based facial features using OpenCV and DeepFace, and MFCC speech features using Librosa, aligning them for emotion classification</li><li>Developed individual models and implemented feature-level fusion using XGBoost to achieve 74% accuracy across 7 emotion categories</li><li>Created a real-time feedback system using Flask, delivering tailored responses based on detected emotional patterns</li><li>Prioritized ethical AI, incorporating XAI methods and considering data privacy throughout the pipeline</li></ul>
+  description: Built a web-based mental health journaling tool that uses NLP models to analyze user-written entries and generate mood insights in real time <ul class="experience-list-personal><li>Integrated transformers-based sentiment analysis (DistilBERT or RoBERTa) to detect emotional tone from text and suggest self-care tips</li><li>Used Streamlit to build a lightweight, aesthetic UI for journaling and feedback</li><li>Designed daily logs and mood-tracking graphs using Matplotlib and Seaborn, and enabled CSV export for personal tracking</li></ul>
 
 # jazznotes.io
 - project: Mental Health Feedback System Using Multi-Modal Emotion Recognition
   role: Master’s Dissertation Project | Python, TensorFlow, OpenCV, Librosa, XGBoost, MFCC, Flask, GitHub
   # url: "#"
-  description: Built a multi-modal AI system to analyze facial expressions and speech from 30-second user videos to detect emotional states for early mental health assessment <ul class="experience-master-list"><li>Extracted CNN-based facial features using OpenCV and DeepFace, and MFCC speech features using Librosa, aligning them for emotion classification</li><li>Developed individual models and implemented feature-level fusion using XGBoost to achieve 74% accuracy across 7 emotion categories</li><li>Created a real-time feedback system using Flask, delivering tailored responses based on detected emotional patterns</li><li>Prioritized ethical AI, incorporating XAI methods and considering data privacy throughout the pipeline</li>
+  description: Built a multi-modal AI system to analyze facial expressions and speech from 30-second user videos to detect emotional states for early mental health assessment <ul class="experience-master-list"><li>Extracted CNN-based facial features using OpenCV and DeepFace, and MFCC speech features using Librosa, aligning them for emotion classification</li><li>Developed individual models and implemented feature-level fusion using XGBoost to achieve 74% accuracy across 7 emotion categories</li><li>Created a real-time feedback system using Flask, delivering tailored responses based on detected emotional patterns</li><li>Prioritized ethical AI, incorporating XAI methods and considering data privacy throughout the pipeline</li></ul>
 
 # Springfield Community Outreach Group
 - project: Confidential Project – Loan Management Web Application
