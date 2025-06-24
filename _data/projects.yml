@@ -5,7 +5,7 @@
 - project: MoodMate – AI-Powered Journal Companion
   role: Personal Project | Python, Hugging Face Transformers, Streamlit, NLP, Sentiment Analysis
   # url: "#"
-  description: Built a web-based mental health journaling tool that uses NLP models to analyze user-written entries and generate mood insights in real time <ul class="experience-list-personal><li>Integrated transformers-based sentiment analysis (DistilBERT or RoBERTa) to detect emotional tone from text and suggest self-care tips</li><li>Used Streamlit to build a lightweight, aesthetic UI for journaling and feedback</li><li>Designed daily logs and mood-tracking graphs using Matplotlib and Seaborn, and enabled CSV export for personal tracking</li></ul>
+  description: Built a web-based mental health journaling tool that uses NLP models to analyze user-written entries and generate mood insights in real time <ul class="experience-list-personal"><li>Integrated transformers-based sentiment analysis (DistilBERT or RoBERTa) to detect emotional tone from text and suggest self-care tips</li><li>Used Streamlit to build a lightweight, aesthetic UI for journaling and feedback</li><li>Designed daily logs and mood-tracking graphs using Matplotlib and Seaborn, and enabled CSV export for personal tracking</li></ul>
 
 # jazznotes.io
 - project: Mental Health Feedback System Using Multi-Modal Emotion Recognition
