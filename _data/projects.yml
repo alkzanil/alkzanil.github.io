@@ -2,11 +2,10 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: Mental Health Feedback System Using Multi-Modal Emotion Recognition
+  role: Master’s Dissertation Project | Python, TensorFlow, OpenCV, Librosa, XGBoost, MFCC, Flask, GitHub
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Built a multi-modal AI system to analyze facial expressions and speech from 30-second user videos to detect emotional states for early mental health assessment <ul class="experience-master-list"><li>Extracted CNN-based facial features using OpenCV and DeepFace, and MFCC speech features using Librosa, aligning them for emotion classification</li><li>Developed individual models and implemented feature-level fusion using XGBoost to achieve 74% accuracy across 7 emotion categories</li><li>Created a real-time feedback system using Flask, delivering tailored responses based on detected emotional patterns</li><li>Prioritized ethical AI, incorporating XAI methods and considering data privacy throughout the pipeline</li>
 
 # Springfield Community Outreach Group
 - project: BigMart Sales Prediction System
